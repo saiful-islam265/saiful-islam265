@@ -1,6 +1,6 @@
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/saifulislam265/saifulislam265/master/wave.gif" width="30">
 
-I am Saiful Islam, people call me Ani, a recent computer science graduate from [Southeast university]([seu.com.bd](https://seu.edu.bd/)). I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
+I am Saiful Islam, people call me Saif, a recent computer science graduate from [Southeast university]([seu.com.bd](https://seu.edu.bd/)). I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-saifulislam265-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saifulislam265/)](https://www.linkedin.com/in/saifulislam265/)
 [![Medium Badge](https://img.shields.io/badge/-@saifulislam265-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@saifulislam265/)](https://medium.com/@saifulislam265)
