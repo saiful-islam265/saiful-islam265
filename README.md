@@ -8,6 +8,8 @@ I am Saiful Islam, people call me Saif, currently i'm studying at [Southeast uni
 
 ## ⚡ Technologies
 
+![PHP](https://img.shields.io/badge/-php-black?style=flat-square&logo=php)
+![WordPress](https://img.shields.io/badge/-wordpress-black?style=flat-square&logo=wordpress)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
